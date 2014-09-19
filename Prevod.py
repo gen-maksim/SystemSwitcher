@@ -15,4 +15,4 @@ c=''
 while perehod>0:
     c=str(perehod%d)+c
     perehod=perehod//d
-print (c)
+print ("Число ", a ," в ", d ,"-й системе счисления выглядит как:"c)
